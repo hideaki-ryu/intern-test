@@ -9,14 +9,4 @@ export const data = [
 		text: 'Pricing',
 		id: 'pricing',
 	},
-	{
-		LinkTo: '/login',
-		text: 'Login',
-		id: 'login',
-	},
-	{
-		LinkTo: '/signup',
-		text: 'Signup',
-		id: 'signup',
-	},
 ];

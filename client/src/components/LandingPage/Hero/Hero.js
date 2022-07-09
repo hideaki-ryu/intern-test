@@ -2,7 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 import { Button, Container, MainHeading } from "../../../globalStyles";
 import {
-  HeroVideo,
+  HeroImage,
   HeroSection,
   HeroText,
   ButtonWrapper,
@@ -12,15 +12,14 @@ import {
 const Hero = () => {
   return (
     <HeroSection>
-      <HeroVideo src="../../assets/hero.mp4" />
+      <HeroImage src="../../assets/background.jpg" />
       <Container>
         <MainHeading>Serpent</MainHeading>
         <HeroText>
-          We help you grow your business across online and offline platforms
-          right from the palm of your hands
+        We are Creative Technology Solution Provider
         </HeroText>
         <ButtonWrapper>
-          <Link to="/login">
+          <Link to="/">
             <Button>Get Started</Button>
           </Link>
           <HeroButton>Find More</HeroButton>

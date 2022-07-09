@@ -2,13 +2,13 @@ export const heroOne = {
 	reverse: true,
 	inverse: true,
 	topLine: {
-		text: 'Control your inventory, Control your business sustainability',
+		text: 'Project 1',
 	},
-	headline: 'Inventory Management',
-	description: 'Increase profit and reduce loss by looking closer at your products availability',
+	headline: 'Explore Rasa',
+	description: 'Explorasa is a microsite containing curation and events for merchants who are members of GOJEK partners in the East Java area.',
 	buttonLabel: 'Find More',
 	imgStart: 'start',
-	img: './assets/InventoryManagement.png',
+	img: './assets/explorerasa.png',
 	start: 'true',
 };
 
@@ -16,15 +16,15 @@ export const heroTwo = {
 	reverse: false,
 	inverse: false,
 	topLine: {
-		text: "Because with Serpent, it's all about POS-sibilities",
+		text: "Project 2",
 	},
-	headline: 'Point Of Sale',
-	description: 'Serpent is a well-integrated Point of Sale that simplifies sales and operations process',
+	headline: 'Gerak Rexona',
+	description: 'Rexona Gerak Tak Terbatas is an application that helps people with disabilities and volunteers to make movement and achieve goals (pedometer), find nearby restaurants and places that are difables friendly, and connect with online taxi applications for online bookings to these locations.',
 	buttonLabel: 'View Project',
 
 	linkTo: '/signup',
 	imgStart: 'start',
-	img: './assets/pos.png',
+	img: './assets/gerakRexona.png',
 	start: 'true',
 };
 
