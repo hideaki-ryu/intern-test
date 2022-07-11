@@ -15,3 +15,6 @@ Step-by-step:
   - react-router
   - MUI
 
+## CASE 1 AND CASE 2
+- I submitted the code through docs. Below is the link :
+https://docs.google.com/document/d/1x9xbNexTmEkwNbUOzoffh3m62sklkO386XTNvC7cgdg/edit#
